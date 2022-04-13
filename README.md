@@ -16,4 +16,4 @@ Un labyrinthe parfait possède forcément un solution et toutes les cases libres
 --------------------------
 ## Utilisation
 
-# Pré-requis
+### Pré-requis
