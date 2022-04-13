@@ -39,7 +39,7 @@ make
   
 __Pour tester le projet chez vous:__  
   
-* Compilez le programme au root du répertoire  
+* Compiler le programme au root du répertoire  
 ```
 [DANTE]$ make
 ```
@@ -48,7 +48,7 @@ __Pour tester le projet chez vous:__
 ```
 [DANTE]$ ./generator/generator [hauteur] [largeur] [parfait]
 ```  
-Si vous voulez un labyrinthe imparfait, ne mettez pas l'arument "parfait"  
+Si vous voulez un labyrinthe imparfait, ne mettez pas l'argument "parfait"  
 
 * Résoudre un labyrinthe  
 ```
