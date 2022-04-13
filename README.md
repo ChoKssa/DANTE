@@ -33,3 +33,36 @@ __La résolution:__
 gcc
 make
 ```  
+
+
+### Lancement  
+  
+__Pour tester le projet chez vous:__  
+  
+* Compilez le programme au root du répertoire  
+```
+[DANTE]$ make
+```
+  
+* Générer un labyrinthe
+```
+[DANTE]$ ./generator/generator [hauteur] [largeur] [parfait]
+```  
+Si vous voulez un labyrinthe imparfait, ne mettez pas l'arument "parfait"  
+
+* Résoudre un labyrinthe  
+```
+[DANTE]$ ./solver/solver [labyrinthe]
+```  
+Mettez en argument le fichier contenant le labyrinthe  
+
+
+## Langage  
+  
+* [C](https://fr.wikipedia.org/wiki/C_(langage))  
+  
+
+## Auteurs
+
+__* Alexandre CATHALIFAUD__ - [ChoKssa](https://github.com/ChoKssa)  
+__* Hugo GROSHAUS__ - [Hugo](https://github.com/ChoKssa)  
