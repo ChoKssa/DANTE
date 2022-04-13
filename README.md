@@ -11,8 +11,8 @@ Un labyrinthe imparfait contient des boucles, des clusters et ne possède pas fo
 
 
 Un labyrinthe parfait possède forcément un solution et toutes les cases libres sont accessibles.  
-
-
+  
+  
 --------------------------
 ## Utilisation
 
