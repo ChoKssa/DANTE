@@ -27,4 +27,9 @@ __La résolution:__
 -------------
 ## Utilisation
 
-### Pré-requis
+### Pré-requis  
+
+```
+gcc
+make
+```  
