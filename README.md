@@ -6,12 +6,17 @@ Programme de génération et de résulution de labyrinthes
 
 Ce programe est capable de générer des labyrinthes parfait ou imparfait.  
   
-Un labyrinthe imparfait contient des boucles, des clusters et ne possède pas forcément de solution.  
+Deux types de labyrinthe:  
+* Un labyrinthe imparfait contient des boucles, des clusters et ne possède pas forcément de solution.  
+  
 
 ![alt text](imperfect.png)
-
-Un labyrinthe parfait possède forcément un solution et toutes les cases libres sont accessibles.  
   
+
+* Un labyrinthe parfait possède forcément un solution et toutes les cases libres sont accessibles.  
+
+  
+    
 ![alt text](perfect.png)  
 
 -------------
