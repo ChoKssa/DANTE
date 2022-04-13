@@ -10,19 +10,19 @@ __Deux types de labyrinthe:__
 * Le labyrinthe imparfait contient des boucles, des clusters et ne possède pas forcément de solution.  
   
 
-![alt text](imperfect.png)
+![alt text](imperfect_maze.png)
   
 
 * Le labyrinthe parfait possède forcément un solution et toutes les cases libres sont accessibles.  
 
 
 
-![alt text](perfect.png)  
+![alt text](perfect_maze.png)  
   
 
 __La résolution:__  
 
-![alt text](solved.png)  
+![alt text](solved_maze.png)  
 
 -------------
 ## Utilisation
@@ -65,4 +65,4 @@ Mettez en argument le fichier contenant le labyrinthe
 ## Auteurs
 
 * __Alexandre CATHALIFAUD__ - [ChoKssa](https://github.com/ChoKssa)  
-* __Hugo GROSHAUS__ - [Hugo](https://github.com/ChoKssa)  
+* __Hugo GROSHAUS__ - [Hugo-Groshaus](https://github.com/Hugo-Groschaus/)  
