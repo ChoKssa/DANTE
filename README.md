@@ -64,5 +64,5 @@ Mettez en argument le fichier contenant le labyrinthe
 
 ## Auteurs
 
-__* Alexandre CATHALIFAUD__ - [ChoKssa](https://github.com/ChoKssa)  
-__* Hugo GROSHAUS__ - [Hugo](https://github.com/ChoKssa)  
+* __Alexandre CATHALIFAUD__ - [ChoKssa](https://github.com/ChoKssa)  
+* __Hugo GROSHAUS__ - [Hugo](https://github.com/ChoKssa)  
