@@ -56,12 +56,12 @@ Si vous voulez un labyrinthe imparfait, ne mettez pas l'arument "parfait"
 ```  
 Mettez en argument le fichier contenant le labyrinthe  
 
-
+-------------
 ## Langage  
   
 * [C](https://fr.wikipedia.org/wiki/C_(langage))  
   
-
+-------------
 ## Auteurs
 
 * __Alexandre CATHALIFAUD__ - [ChoKssa](https://github.com/ChoKssa)  
